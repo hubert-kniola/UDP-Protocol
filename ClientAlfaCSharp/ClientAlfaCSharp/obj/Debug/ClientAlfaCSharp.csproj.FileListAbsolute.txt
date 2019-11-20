@@ -1,0 +1,7 @@
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\bin\Debug\ClientAlfaCSharp.exe.config
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\bin\Debug\ClientAlfaCSharp.exe
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\bin\Debug\ClientAlfaCSharp.pdb
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\obj\Debug\ClientAlfaCSharp.csprojAssemblyReference.cache
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\obj\Debug\ClientAlfaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\obj\Debug\ClientAlfaCSharp.exe
+C:\Users\Mateusz Kuźniak\source\repos\ClientAlfaCSharp\ClientAlfaCSharp\obj\Debug\ClientAlfaCSharp.pdb

@@ -1,0 +1,13 @@
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.exe.config
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.exe
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.pdb
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.csprojAssemblyReference.cache
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.exe
+C:\Users\Mateusz Kuźniak\source\repos\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.pdb
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.exe.config
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.exe
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\bin\Debug\ServerAlfaCSharp.pdb
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.exe
+C:\Users\Dell\Desktop\ServerAlfaCSharp\ServerAlfaCSharp\obj\Debug\ServerAlfaCSharp.pdb
